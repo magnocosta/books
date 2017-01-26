@@ -12,6 +12,7 @@
 * Financeiro
   * Os segredos da mente milionária - T. Hard Eker
   * Pai rico, pai pobre - Robert Kyosaki
+  * Independencia Financeira - Robert Kyosaki
   * Como organizar a sua vida financeira - Gustavo Cerbasi
   * Adeus Aposentadoria - Gustavo Cerbasi
   * A mente acima do dinheiro - Brad Klontz, Ted Klontz
