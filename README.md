@@ -1,7 +1,6 @@
 # Books - 2017
 
 * Pessoal
-  * Produtividade para quem quer tempo - Geronimo Theml
   * As 8 leis da espiritualidade e da saúde - Tommy Rosa e Stephen Sinatra
   * Regras Simples - Donald Sull e Kathkeen M. Eisenhardt
   * O Poder do Agora - Eckhart Tolle
@@ -20,7 +19,7 @@
   * As armas da persuasão - Cialdini, Robert B.
 
 * Conluído
-
+  * Produtividade para quem quer tempo - Geronimo Theml
 
 
 
