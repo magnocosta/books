@@ -4,6 +4,7 @@
   * As 8 leis da espiritualidade e da saúde - Tommy Rosa e Stephen Sinatra
   * Regras Simples - Donald Sull e Kathkeen M. Eisenhardt
   * O Poder do Agora - Eckhart Tolle
+  * O Poder do Hábito - Duhigg, Charles
 
 * Profissional
   * Gamestorming – Jogos Corporativos Para Mudar, Inovar e Quebrar Regras - Gray,Dave / Brown,Sunni / Macanufo,James
