@@ -11,7 +11,6 @@
 
 * Financeiro
   * Os segredos da mente milionária - T. Hard Eker
-  * Pai rico, pai pobre - Robert Kyosaki
   * Independencia Financeira - Robert Kyosaki
   * Como organizar a sua vida financeira - Gustavo Cerbasi
   * Adeus Aposentadoria - Gustavo Cerbasi
@@ -21,6 +20,7 @@
 
 * Conluído
   * Produtividade para quem quer tempo - Geronimo Theml
+  * Pai rico, pai pobre - Robert Kyosaki
 
 
 
